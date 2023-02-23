@@ -1,7 +1,7 @@
 # Kishan : Crop Insurance claims By (PMFBY) 
 
-# * It's Project For Smart India Hackathon 2022
-# * Wining 3rd Prize In Smart Odisha Hackathon Conduct by Government Of Odisha
+#  It's Project For Smart India Hackathon 2022
+#  Wining 3rd Prize In Smart Odisha Hackathon Conduct by Government Of Odisha
 
 # Details
 
