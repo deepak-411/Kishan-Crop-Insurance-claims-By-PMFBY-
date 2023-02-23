@@ -1,5 +1,8 @@
 # Kishan : Crop Insurance claims By (PMFBY) 
 
+* It's Project For Smart India Hackathon 2022
+* Wining 3rd Prize In Smart Odisha Hackathon Conduct by Government Of Odisha
+
 # Details
 
 The Government of Odisha has *enrolled multiple* farmers across the state under the Pradhan Mantri Fasal Bima Yojana (PMFBY) this year. The number of enrollments has been increasing every year and the Government hopes to reach more farmers in a short time.
