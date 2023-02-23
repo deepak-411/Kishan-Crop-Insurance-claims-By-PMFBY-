@@ -2,7 +2,7 @@
 
 # Details
 
-The Government of Odisha has *enrolled multiple farmers across the state under the Pradhan Mantri Fasal Bima Yojana (PMFBY) this year. The number of enrollments has been increasing every year and the Government hopes to reach more farmers in a short time.
+The Government of Odisha has * enrolled multiple farmers across the state under the Pradhan Mantri Fasal Bima Yojana (PMFBY) this year. The number of enrollments has been increasing every year and the Government hopes to reach more farmers in a short time.
 
 Even though the scheme has been designed to be pro-farmer, there have been operational issues in the field. One such challenging problem is the delayed settlement of insurance claims and their rejection by insurance companies. Insurance companies are yet to clear almost 33 percent of estimated claims to the framers who come under the PMFBY. Due to these issues the state has witnessed farmer agitations about the lack of clarity in the settlement and disbursement of insurance claims.
 
