@@ -12,10 +12,10 @@ Building Enhanced Krishi Application for Claim of Insurance ( EKACI) ( where far
 Ekaci’s Machine Learning model will reduce the troubles arising on the field while predicting the crop damage. Ekaci will give the farmers the liberty to upload and report the loss and provide prediction , if he/she is eligible for receiving insurance sum with the help of sensors.
 
 # Key Features
-handshake Allows farmers to apply for multiple Insurance policies
-chart_with_upwards_trend Enables tracking of Claims (using Blockchain)
-woman_farmer Crop Damaged Prediction (using ML)
-page_facing_up Allows Insurance companies to add Insurance policies & plans
-white_check_mark Insurance companies can track & verify claims
-arrow_double_up Insurance companies can update user's claim data
-desktop_computer Allows government to track & monitor data
+* handshake Allows farmers to apply for multiple Insurance policies
+* chart_with_upwards_trend Enables tracking of Claims (using Blockchain)
+* woman_farmer Crop Damaged Prediction (using ML)
+* page_facing_up Allows Insurance companies to add Insurance policies & plans
+* white_check_mark Insurance companies can track & verify claims
+* arrow_double_up Insurance companies can update user's claim data
+* desktop_computer Allows government to track & monitor data
