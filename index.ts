@@ -1,21 +1,12 @@
-import colors from "ansi-colors";
-import { connect, Connection, connection } from "mongoose";
-import dotenv from "dotenv";
-import { dbUri } from "../constants";
-dotenv.config();
+import Router, { Application } from "express";
+import companyRouter from "./company.route";
+import farmerRouter from "./farmer.route";
+import userRouter from "./user.route";
 
-const uri: string = dbUri + "";
+const mainRouter: Application = Router();
 
-connect(uri);
+mainRouter.use("/user", userRouter);
+mainRouter.use("/farmer", farmerRouter);
+mainRouter.use("/company", companyRouter);
 
-const db: Connection = connection;
-
-db.on("open", (): void => {
-  console.log(colors.bgCyan("\tConnected to the database successfully"));
-});
-
-db.once("error", (): void => {
-  console.error(
-    colors.red("\tThere was some problem connecting to the database")
-  );
-});
+export default mainRouter;
